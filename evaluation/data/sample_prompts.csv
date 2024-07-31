@@ -1,0 +1,3 @@
+case_number,prompt,evaluation_seed,class
+0,"a photo of airplane.",1234,airplane
+1,"a photo of automobile.",5678,automobile

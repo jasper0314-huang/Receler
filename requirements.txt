@@ -1,0 +1,24 @@
+torch==2.0.1
+torchvision==0.15.2
+albumentations==0.4.3
+diffusers==0.21.4
+pudb==2019.2
+invisible-watermark==0.2.0
+imageio==2.9.0
+imageio-ffmpeg==0.4.2
+pytorch-lightning==1.4.2
+omegaconf==2.1.1
+test-tube>=0.7.5
+streamlit>=0.73.1
+einops==0.3.0
+torch-fidelity==0.3.0
+transformers==4.29.2
+torchmetrics==0.6.0
+kornia==0.6
+matplotlib==3.7.3
+accelerate==0.24.0
+pytorch-fid==0.3.0
+wandb==0.17.4
+-e git+https://github.com/CompVis/taming-transformers.git@master#egg=taming-transformers
+-e git+https://github.com/openai/CLIP.git@main#egg=clip
+-e .

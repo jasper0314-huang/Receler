@@ -1,0 +1,10 @@
+__pycache__/
+/evaluation/output_folder/
+/evaluation/evaluation_results
+/models/
+/src/
+/evaluation/GroundingDINO/
+/latent_diffusion.egg-info/
+/receler/sd-v1-4-full-ema.ckpt
+wandb/
+test_results/
