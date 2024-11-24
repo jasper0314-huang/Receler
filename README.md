@@ -10,7 +10,7 @@ Official PyTorch implementation for *Receler*.
 ![Receler](assets/teaser.png)
 
 [**Receler: Reliable Concept Erasing of Text-to-Image Diffusion Models via Lightweight Erasers**](https://arxiv.org/abs/2311.17717)
-<br/>[Chi-Pin Huang](https://scholar.google.com.tw/citations?user=s8-yTSwAAAAJ&hl=zh-TW)\*, Kai-Po Chang\*, Chung-Ting Tsai, [Yung-Hsuan Lai](https://franklin905.github.io/), [Fu-En Yang](https://fuenyang1127.github.io/), Yu-Chiang Frank Wang<br/>
+<br/>[Chi-Pin Huang](https://scholar.google.com.tw/citations?user=s8-yTSwAAAAJ&hl=zh-TW)\*, [Kai-Po Chang](https://github.com/jasper0314-huang/Receler)\*, [Chung-Ting Tsai](https://github.com/jasper0314-huang/Receler), [Yung-Hsuan Lai](https://franklin905.github.io/), [Fu-En Yang](https://fuenyang1127.github.io/), [Yu-Chiang Frank Wang](https://vllab.ee.ntu.edu.tw/ycwang.html)<br/>
 
 <!-- </div> -->
 
